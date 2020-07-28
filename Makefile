@@ -1,6 +1,6 @@
 MAJOR	?= 4
 MINOR	?= 3
-PATCH	?= 1
+PATCH	?= 3
 
 TAG	= g0dscookie/pdns-recursor
 TAGLIST = -t ${TAG}:${MAJOR} -t ${TAG}:${MAJOR}.${MINOR} -t ${TAG}:${MAJOR}.${MINOR}.${PATCH}
